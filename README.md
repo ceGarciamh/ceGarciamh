@@ -1,3 +1,3 @@
 - 👋 Olá, meu nome é @ceGarciamh
-- 📫 Meu email de contato é cristiano.eduardo.garcia@hotmail.com
+- 📫 Meu email de contato é [email]cristiano.eduardo.garcia@hotmail.com
 - 🌱 Estou aprendendo Front-End e JavaScript
